@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		0DC7583A2F4DD71400DE9888 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 0DC758392F4DD70A00DE9888 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		0D9AAD4A2F37E65B00A77CAD /* whale-gym.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "whale-gym.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DC758392F4DD70A00DE9888 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		0D9AAD412F37E65B00A77CAD = {
 			isa = PBXGroup;
 			children = (
+				0DC758392F4DD70A00DE9888 /* README.md */,
 				0D9AAD4C2F37E65B00A77CAD /* whale-gym */,
 				0D9AAD4B2F37E65B00A77CAD /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DC7583A2F4DD71400DE9888 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
